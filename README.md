@@ -33,7 +33,7 @@
  
  > ### 🎈 Sosyal Medya 
  
- | [Tiktok](https://tiktok.com/@emirtolis) | [İnstagram](https://instagram.com/emirtolis) | [YouTube](https://youtube.com/@emirtolis) |
+ | [Tüm Linkler](https://linktr.ee/emirtolis) | [İnstagram](https://instagram.com/emirtolis) | [YouTube](https://youtube.com/@emirtolis) |
  
  ![DISCORD](https://discord.c99.nl/widget/theme-3/648931843915120660.png)
  <br>
