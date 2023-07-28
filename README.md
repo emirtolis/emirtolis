@@ -35,10 +35,10 @@
  
  | [Tiktok](https://tiktok.com/@emirtolis) | [İnstagram](https://instagram.com/emirtolis) | [YouTube](https://youtube.com/@emirtolis) |
  
- ![DISCORD](https://discord.c99.nl/widget/theme-3/813464360814510090.png)
+ ![DISCORD](https://discord.c99.nl/widget/theme-3/648931843915120660.png)
  <br>
- ```PY
- Emir Tolis#4645
+ ```P
+codertolis
  ```
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
