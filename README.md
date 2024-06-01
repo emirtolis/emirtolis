@@ -13,7 +13,8 @@
 ## 🏆 Ödüllerim
 ![](https://github-profile-trophy.vercel.app/?username=emirtolis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🎵 Şuanda Ne Dinliyorum ?
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xwajg4rkmm8ci3llsv9rm85j1&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=xwajg4rkmm8ci3llsv9rm85j1&redirect=true)
+
 ### 😂 Rastgele Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
