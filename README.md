@@ -16,5 +16,3 @@
 ## 🎵 Şuanda Ne Dinliyorum ?
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xwajg4rkmm8ci3llsv9rm85j1&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=xwajg4rkmm8ci3llsv9rm85j1&redirect=true)
 
-### 😂 Rastgele Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
