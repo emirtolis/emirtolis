@@ -8,6 +8,3 @@
 # 📊 Github Statistics:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emirtolis&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🎵 What I'm Listening now?
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xwajg4rkmm8ci3llsv9rm85j1&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=xwajg4rkmm8ci3llsv9rm85j1&redirect=true)
-
